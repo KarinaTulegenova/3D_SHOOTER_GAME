@@ -1,0 +1,41 @@
+# Unity generated files
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+
+# Unity generated project files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE and OS files
+/.vs/
+/.vscode/
+.DS_Store
+Thumbs.db
+
+# Build artifacts and archives
+/3DShooter/
+/3DShooterGame/
+/3DShooterGameFINISHED/
+/ShootGame/
+*.zip
+
+# GitHub has a hard 100 MB per-file limit without Git LFS.
+# Git LFS is not installed in this environment, so these large assets are excluded.
+/Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
+/Assets/Real Stars Skybox/StarSkybox04Named/CubemapStarsNamed.cubemap
+/Assets/Real Stars Skybox/StarSkybox04NamedConstell/CubemapStarsNamedConstellations.cubemap
