@@ -1,14 +1,14 @@
 # Shooting Game
 
-## Introduction to Game Development
+### Introduction to Game Development
 
 **Student:** Karina Tulegenova  
 **Group:** SE-2419  
 **Project Name:** Shooting Game
 DEPLOY: https://karinatulegenova.itch.io/shootgame
----
 
-# 1. Introduction
+
+### 1. Introduction
 
 This project presents the development of a 3D shooter game created in Unity.
 
